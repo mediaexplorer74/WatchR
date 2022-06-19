@@ -8,7 +8,7 @@ Watch right - some UWP UI experiments
 
 ## UWP App 
 
-[UWP tech](https://www.xamarin.com/forms) allows you to build cross-platform UIs for Win10Mobile, 
+[UWP tech](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide) allows you to build cross-platform UIs for Win10Mobile, 
 Windows XBox from a single, shared codebase. 
 
 * Focus:
